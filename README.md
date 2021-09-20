@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @enjay870
-- 👀 I’m interested in software and hardware engineering, at present STM32F103 using freeRTOS and openlibcm3
+- 👋 Hi, I’m Nigel Jarvis
+- 👀 I’m interested in software and hardware engineering, at present STM32F103 using freeRTOS and libopencm3
 - 🌱 I’m currently learning test-driven development in Java, C/C++ and Python and using Django
 - 💞️ I am open to collaborations
 - 📫 You can email me here: enjay.contact-me@yahoo.com
